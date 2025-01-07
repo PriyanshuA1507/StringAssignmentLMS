@@ -29,6 +29,7 @@ NodeJs
 ExpressJs
 MongoDB
 ![BAB0A35D-B3F5-405E-9282-AA37C8D0F56B_1_201_a](https://github.com/user-attachments/assets/de4a0998-712a-4220-a9c0-3b4d6d3c7173)
+![3DAAB9B2-78ED-46AC-B6B8-B26B14068814_1_201_a](https://github.com/user-attachments/assets/3855db0d-e1cb-4228-91fc-b28e5136965d)
 
 
 
