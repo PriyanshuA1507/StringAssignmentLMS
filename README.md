@@ -18,6 +18,11 @@ Setup
 In the project directory, you can run:
 Get into the chatapp directory cd client
 Run npm i
+
+in new terminal 
+cd middleware 
+run npm i
+
 Create a MongoDB account and get the MONOGO_URL for connecting the server and the Database
 Create a .env file and create variables as mentioned in the .env.example with the values
 Run nodemon server.js to start the server [Should have installed nodemon globally]
