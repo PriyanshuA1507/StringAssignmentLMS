@@ -34,9 +34,10 @@ MongoDB
 <img width="1440" alt="Screenshot 2025-01-08 at 7 11 21 AM" src="https://github.com/user-attachments/assets/ca879591-c45f-46ba-9895-bbe07c14e79d" />
 
 
-![4D5EF720-1A97-44BF-93CF-EF455D1640A7_1_201_a](https://github.com/user-attachments/assets/38df440f-ae50-4570-bd23-2f09060eb246)
+<img width="1440" alt="Screenshot 2025-01-08 at 7 11 30 AM" src="https://github.com/user-attachments/assets/71bf2223-bcbf-4140-bae6-2845514cad1d" />
 
-![C3828744-99C8-42E3-A39C-87A551B46627_1_201_a](https://github.com/user-attachments/assets/ea4f91e6-decb-46f8-a6c6-aceee83df35c)
+<img width="1440" alt="Screenshot 2025-01-08 at 7 15 12 AM" src="https://github.com/user-attachments/assets/93b10e52-2cee-4d22-9727-1b48917b4270" />
+
 
 ![4C24A![60E3A1EB-8050-4709-998F-7DD11E23799F_1_201_a](https://github.com/user-attachments/assets/9e5bb5e5-67da-436a-942c-93de93a713c3)
 
