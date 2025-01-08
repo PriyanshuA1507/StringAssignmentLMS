@@ -33,8 +33,8 @@ MongoDB
 
 <img width="1440" alt="Screenshot 2025-01-08 at 7 11 21 AM" src="https://github.com/user-attachments/assets/ca879591-c45f-46ba-9895-bbe07c14e79d" />
 
+<img width="1440" alt="Screenshot 2025-01-08 at 7 41 11 AM" src="https://github.com/user-attachments/assets/1ef2ec6b-0831-4ec8-b01d-6d3012208928" />
 
-<img width="1440" alt="Screenshot 2025-01-08 at 7 11 30 AM" src="https://github.com/user-attachments/assets/71bf2223-bcbf-4140-bae6-2845514cad1d" />
 
 <img width="1440" alt="Screenshot 2025-01-08 at 7 15 12 AM" src="https://github.com/user-attachments/assets/93b10e52-2cee-4d22-9727-1b48917b4270" />
 
